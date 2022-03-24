@@ -1,0 +1,33 @@
+p {
+  font-family: cursive;
+  font-optical-sizing: auto;
+  cursor: ne-resize;
+  font-size: larger;
+  /* background-color: beige; */
+  /* border-style: groove; */
+  text-align: -webkit-center;
+  text-transform: uppercase;
+  text-align: -webkit-center;
+  display: table-caption;
+  cursor: ne-resize;
+  display: -webkit-box;
+  font-variant: all-small-caps;
+  display: contents;
+  font-family: math;
+  display: table-footer-group;
+  font-variant-caps: all-small-caps;
+  display: table-header-group;
+  font-size: medium;
+  background-origin: padding-box;
+  display: -webkit-box;
+}
+
+h1 {
+  font-family: auto;
+  text-align: -webkit-center;
+  -webkit-text-stroke-width: thin;
+  font-style: oblique;
+  font-family: emoji;
+  font-variant: jis78;
+  background-color: ghostwhite;
+}
